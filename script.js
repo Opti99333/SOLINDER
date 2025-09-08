@@ -46,6 +46,56 @@ const profiles = [
     name: "Pepasler", age: 20, distance: "300 km away",
     img: "./assets/img/hussler-pepe.jpeg"
   },
+  
+  {
+    name: "Johny", age: 33, distance: "27 km away",
+    img: "./assets/img/signal-2025-09-08-120328_002.jpeg"
+  },
+
+  {
+    name: "Linda", age: 31, distance: "11 km away",
+    img: "./assets/img/signal-2025-09-08-120328_003.jpeg"
+  },
+
+  {
+    name: "Margo", age: 21, distance: "2 km away",
+    img: "./assets/img/signal-2025-09-08-120328_004.jpeg"
+  },
+
+  {
+    name: "Padre", age: 27, distance: "33 km away",
+    img: "./assets/img/signal-2025-09-08-120328_005.jpeg"
+  },
+
+  {
+    name: "Rosa", age: 29, distance: "231 km away",
+    img: "./assets/img/signal-2025-09-08-120328_006.jpeg"
+  },
+
+  {
+    name: "Dou", age: 41, distance: "516 km away",
+    img: "./assets/img/signal-2025-09-08-120328_007.jpeg"
+  },
+
+  {
+    name: "Greg", age: 19, distance: "56 km away",
+    img: "./assets/img/signal-2025-09-08-120328_008.jpeg"
+  },
+
+  {
+    name: "Melinda", age: 23, distance: "411 km away",
+    img: "./assets/img/signal-2025-09-08-120328_009.jpeg"
+  },
+
+  {
+    name: "Dexter", age: 22, distance: "113 km away",
+    img: "./assets/img/signal-2025-09-08-120328_010.jpeg"
+  },
+
+  {
+    name: "Donny", age: 24, distance: "177 km away",
+    img: "./assets/img/signal-2025-09-08-120328.jpeg"
+  },
 
   {
     name: "Mady", age: 30, distance: "1 km away",
